@@ -20,9 +20,9 @@ public class Program {
                     +"VALUES"
                     +"(?, ?, ?, ?, ?)",
                     Statement.RETURN_GENERATED_KEYS);
-            st.setString(1, "Giovanny Enes");
-            st.setString(2, "Enes@gmail.com");
-            st.setDate(3, new java.sql.Date(sdf.parse("04/08/2001").getTime()));
+            st.setString(1, "Bruna Enes");
+            st.setString(2, "Bruna@gmail.com");
+            st.setDate(3, new java.sql.Date(sdf.parse("16/01/2006").getTime()));
             st.setDouble(4, 3000);
             st.setInt(5, 4);
 
