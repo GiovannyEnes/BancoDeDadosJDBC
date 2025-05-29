@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/JdbcDeleteData/JdbcDeleteData.iml" filepath="$PROJECT_DIR$/JdbcDeleteData/JdbcDeleteData.iml" />
       <module fileurl="file://$PROJECT_DIR$/JdbcInsertData/JdbcInsertData.iml" filepath="$PROJECT_DIR$/JdbcInsertData/JdbcInsertData.iml" />
       <module fileurl="file://$PROJECT_DIR$/JdbcResultData/JdbcResultData.iml" filepath="$PROJECT_DIR$/JdbcResultData/JdbcResultData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JdbcTransactionsData/JdbcTransactionsData.iml" filepath="$PROJECT_DIR$/JdbcTransactionsData/JdbcTransactionsData.iml" />
       <module fileurl="file://$PROJECT_DIR$/JdbcupdatesData/JdbcupdatesData.iml" filepath="$PROJECT_DIR$/JdbcupdatesData/JdbcupdatesData.iml" />
     </modules>
   </component>
